@@ -1,0 +1,67 @@
+body{
+
+    padding-bottom: 30px;
+}
+
+
+.caja {
+  width: 1300px;
+  height: 400px;
+  margin-bottom: 30px;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 20px 10px 10px rgb(207, 41, 12);
+  border-radius: 50px 0px;
+  background: linear-gradient(227deg, rgb(42, 233, 25) 0%, rgb(4, 36, 83) 100%);
+  text-align: center;
+  font-family: "Prompt", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  color: blue;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Prompt", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+}
+h2 {
+  padding: 30px;
+  text-align: center;
+  font-family: "Prompt", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  color: blue;
+}
+h3 {
+  font-family: "Prompt", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  text-align: justify;
+  margin-left: 30px;
+}
+h4 {
+  font-family: "Prompt", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+}
+p {
+  font-family: "Prompt", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  margin-left: 30px;
+}
+
+li {
+  font-family: "Prompt", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  margin-left: 30px;
+}
+
+.fondo {
+  background: linear-gradient(
+    227deg,
+    rgb(230, 16, 116) 0%,
+    rgba(253, 187, 47, 1) 100%
+  );
+}
+
+.carita {
+  height: 50px;
+  color: blueviolet;
+}

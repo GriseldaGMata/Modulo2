@@ -1,0 +1,24 @@
+.rojo{
+    background: red;
+    width: 200px;
+    height: 300px;
+    margin-bottom: 50px;
+    padding: 30px;
+    box-sizing: border-box;
+    box-shadow: 20px 10px 10px black;
+           /* eje x eje y blur color */
+    border-radius: 50px 0px;
+}
+
+.azul{
+    background: blue;
+    background:  linear-gradient(227deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 47,1) 100% );
+    width: 200px;
+    height: 300px;
+    box-shadow: -20px -10px 10px black;
+/* color: white; regresa el color negro por la transicion  */
+    padding: 20px;
+    box-sizing: border-box;
+    /* border-radius: 20px; */
+    border-radius: 50px 0px 20px;
+}

@@ -1,0 +1,11 @@
+.texto p{
+    background: yellow;
+    column-count: 5;
+    column-gap: 100px;
+    column-rule: 5px solid black;
+
+}
+.carita{
+    height: 20px;
+    color: rgb(215, 206, 223);
+}
