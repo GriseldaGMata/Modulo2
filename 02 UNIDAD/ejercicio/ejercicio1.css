@@ -1,0 +1,47 @@
+.contenedor {
+  background-color: white;
+  border-color: black;
+  border: solid 2px;
+  height: 600px;
+  width: 600px;
+  margin: 0 auto;
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  flex-direction: column;
+  margin-top:0%;
+}
+
+.color1 {
+  position: absolute;
+  margin-top: 0%;
+  background-color: red;
+  align-items: flex-end;
+  border: 1px solid red;
+  display: inline-flex;
+ }
+.color2 {
+  position: absolute;
+  background-color: blue;
+  margin-top: 33.3%;
+  border: 1px solid blue;
+  display: inline-flex;
+  }
+.color3 {
+  position: absolute;
+  background-color: green;
+  border: 1px solid green;
+  margin-top: 66%;
+  display: inline-flex;
+  }
+.item {
+   font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 200px;
+  width: 200px;
+  display: inline-flex;
+  flex-direction: column;
+ }
