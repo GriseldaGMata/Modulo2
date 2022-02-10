@@ -1,0 +1,54 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(220, 220, 236);
+  background-color: grey;
+}
+h1 {
+  color: black;
+  display: flex;
+  justify-content: flex-start;
+  height: fit-content;
+}
+#contenedor {
+  width: 100%auto;
+  height: 100%auto;
+  overflow: visible;
+  margin-left: 0%;
+}
+/* nav {
+  height: 1px;
+} */
+div {
+  margin-left: auto;
+  height: auto;
+}
+
+ul {
+  height: 1px;
+  list-style-type: none;
+}
+
+li {
+  color: blueviolet;
+}
+
+p {
+  font-style: italic;
+}
+section {
+  margin-left: 0px;
+  border-top: 3px solid black;
+  height: 200px;
+  padding: 0%;
+}
+#corte1 {
+  background-color: rgb(43, 41, 41);
+}
+#corte2 {
+  background-color: rgb(114, 114, 107);
+}
+#titular {
+  background-color: aquamarine;
+  height: 50px;
+
+}
